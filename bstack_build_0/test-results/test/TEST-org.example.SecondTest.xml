@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.SecondTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-21T06:19:07" hostname="SritejaSugoor-MPHQV4P7HP" time="59.725">
+  <properties/>
+  <testcase name="test()" classname="org.example.SecondTest" time="59.725"/>
+  <system-out><![CDATA[[afterAll]  started
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

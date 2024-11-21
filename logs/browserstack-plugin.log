@@ -1,0 +1,28 @@
+20:01:35.043 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+20:01:35.052 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - /Users/sriteja/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.27.0/20b80886340b8959d1e28032c71970a5df8d6eb3/browserstack-java-sdk-1.27.0.jar
+20:01:35.052 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+20:01:35.077 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+20:01:35.078 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - /Users/sriteja/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.27.0/20b80886340b8959d1e28032c71970a5df8d6eb3/browserstack-java-sdk-1.27.0.jar
+20:01:35.078 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+20:01:36.588 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+20:01:36.589 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - /Users/sriteja/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.27.0/20b80886340b8959d1e28032c71970a5df8d6eb3/browserstack-java-sdk-1.27.0.jar
+20:01:36.590 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+20:01:37.126 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+20:01:37.127 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - /Users/sriteja/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.27.0/20b80886340b8959d1e28032c71970a5df8d6eb3/browserstack-java-sdk-1.27.0.jar
+20:01:37.128 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+20:14:48.290 [AWT-EventQueue-0] INFO  c.b.l.BrowserStackRunExtension - gradle
+20:14:48.290 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+20:14:58.377 [AWT-EventQueue-0] INFO  c.b.l.BrowserStackRunExtension - gradle
+20:14:58.377 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+11:19:59.737 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+11:19:59.739 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - /Users/sriteja/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.27.0/20b80886340b8959d1e28032c71970a5df8d6eb3/browserstack-java-sdk-1.27.0.jar
+11:19:59.739 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+11:19:59.753 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+11:19:59.753 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - /Users/sriteja/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.27.0/20b80886340b8959d1e28032c71970a5df8d6eb3/browserstack-java-sdk-1.27.0.jar
+11:19:59.753 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+11:23:07.619 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+11:23:07.621 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - /Users/sriteja/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.27.0/20b80886340b8959d1e28032c71970a5df8d6eb3/browserstack-java-sdk-1.27.0.jar
+11:23:07.621 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+11:23:07.634 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+11:23:07.635 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - /Users/sriteja/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.27.0/20b80886340b8959d1e28032c71970a5df8d6eb3/browserstack-java-sdk-1.27.0.jar
+11:23:07.635 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
